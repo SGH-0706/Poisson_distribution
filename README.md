@@ -1,4 +1,6 @@
 # Fitting Poisson  distribution
+## Name: Srinithi Muthukumar
+## Reg No: 212224240161
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
